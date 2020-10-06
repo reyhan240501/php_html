@@ -1,7 +1,7 @@
 <?php
 $data_siswa=[
-    "reyhan"=>["Muhammad Reyhan Rizki Ferdiyan", "Bondowoso", "24/05/2001", true],
-    "bayu"=>["Raditya Fajar Bayu Pamungkas", "Kendal", "19/02/2003", false],
+    "Reyhan"=>["Muhammad Reyhan Rizki Ferdiyan", "Bondowoso", "24/05/2001", true],
+    "Bayu"=>["Raditya Fajar Bayu Pamungkas", "Kendal", "19/02/2003", false],
     "Toba"=>["Toba Fathir Auladya", "Kendal", "04/04/2005", false],
     "Sudiyono"=>["Sudiyono", "Kendal", "10/05/2004", false],
     "Aodellas"=>["Aodellas Magosiang", "Semarang", "14/03/2004", false],
